@@ -5,6 +5,8 @@ a playground for learning c
   * hello world
 * test_inc.c
   * i++ vs ++i
+* longest_line.c
+  * K&R P.33 example
 
 hackerrank.com
 ---
