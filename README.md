@@ -7,6 +7,8 @@ a playground for learning c
   * i++ vs ++i
 * longest_line.c
   * K&R P.33 example
+* interview_1.c
+  * undefined i
 
 hackerrank.com
 ---
