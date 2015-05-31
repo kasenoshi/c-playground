@@ -9,6 +9,8 @@ a playground for learning c
   * K&R P.33 example
 * interview_1.c
   * undefined i
+* interview_2.c
+  * printf calculate arguments from right to left
 
 hackerrank.com
 ---
