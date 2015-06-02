@@ -11,6 +11,8 @@ a playground for learning c
   * undefined i
 * interview_2.c
   * printf calculate arguments from right to left
+* interview_3.c
+  * typecast pointer will not change the value it points to 
 
 hackerrank.com
 ---
