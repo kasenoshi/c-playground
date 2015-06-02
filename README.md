@@ -13,6 +13,8 @@ a playground for learning c
   * printf calculate arguments from right to left
 * interview_3.c
   * typecast pointer will not change the value it points to 
+* interview_4.c
+  * char type will become 16bits in register
 
 hackerrank.com
 ---
