@@ -22,3 +22,9 @@ solution to the quiz on hackerrank.com
 * xoring_ninja.c
   * [xoring ninja](https://www.hackerrank.com/challenges/xoring-ninja)
 
+leetcode.com
+---
+solution to the quiz on leetcode.com
+* my_atoi.c
+  * [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)
+
