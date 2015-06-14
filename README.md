@@ -15,6 +15,8 @@ a playground for learning c
   * typecast pointer will not change the value it points to 
 * interview_4.c
   * char type will become 16bits in register
+* interview_7.c
+  * default copy constructor do shallow copy
 
 hackerrank.com
 ---
