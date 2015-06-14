@@ -7,7 +7,7 @@ class base{
         int m_i;
         int m_j;
     public:
-        base(int i): m_j(i), m_i(m_j){}; /* initialize member list executes according to the order of member declaration, so m_i(m_j) will be executed before m_j(i) */ 
+        base(int i): m_j(i), m_i(m_j){}; /* member initialization list executes according to the order of member declaration, so m_i(m_j) will be executed before m_j(i) */ 
         int get_i(){return m_i;};
         int get_j(){return m_j;};
 };
