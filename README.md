@@ -15,8 +15,10 @@ a playground for learning c
   * typecast pointer will not change the value it points to 
 * interview_4.c
   * char type will become 16bits in register
-* interview_7.c
+* interview_7.cpp
   * default copy constructor do shallow copy
+* interview_8.cpp
+  * declare class object with no argument
 
 hackerrank.com
 ---
