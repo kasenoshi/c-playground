@@ -19,6 +19,8 @@ a playground for learning c
   * default copy constructor do shallow copy
 * interview_8.cpp
   * declare class object with no argument
+* interview_9.cpp
+  * order of member initialize list 
 
 hackerrank.com
 ---
