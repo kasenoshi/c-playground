@@ -33,4 +33,6 @@ leetcode.com
 solution to the quiz on leetcode.com
 * my_atoi.c
   * [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)
+* merge_sorted_array.c
+  * [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
 
