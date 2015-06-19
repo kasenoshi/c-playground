@@ -21,6 +21,8 @@ a playground for learning c
   * declare class object with no argument
 * interview_9.cpp
   * order of member initialize list 
+* interview_10.cpp
+  * implicitly construct 
 
 hackerrank.com
 ---
