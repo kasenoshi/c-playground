@@ -23,6 +23,8 @@ a playground for learning c
   * order of member initialize list 
 * interview_10.cpp
   * implicitly construct 
+* interview_11.cpp
+  * integer v.s. double
 
 hackerrank.com
 ---
