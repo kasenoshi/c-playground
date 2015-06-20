@@ -25,6 +25,8 @@ a playground for learning c
   * implicitly construct 
 * interview_11.cpp
   * integer v.s. double
+* interview_11.cpp
+  * logical right shift vs. arithmetic right shift
 
 hackerrank.com
 ---
