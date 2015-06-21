@@ -41,4 +41,6 @@ solution to the quiz on leetcode.com
   * [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)
 * merge_sorted_array.c
   * [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
+* length_of_last_word.c
+  * [Length of Last Word](https://leetcode.com/problems/length-of-last-word/)
 
