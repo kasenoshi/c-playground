@@ -43,4 +43,6 @@ solution to the quiz on leetcode.com
   * [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
 * length_of_last_word.c
   * [Length of Last Word](https://leetcode.com/problems/length-of-last-word/)
+* contains_duplicate.c
+  * [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
 
