@@ -1,4 +1,28 @@
 # c-playground
+leetcode.com
+---
+solution to the quiz on leetcode.com
+* my_atoi.c
+  * [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)
+* merge_sorted_array.c
+  * [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
+* length_of_last_word.c
+  * [Length of Last Word](https://leetcode.com/problems/length-of-last-word/)
+* contains_duplicate.c
+  * [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
+* plus_one.c
+  * [Plus One](https://leetcode.com/problems/plus-one/)
+* single_number.c
+  * [Single Number](https://leetcode.com/problems/single-number/)
+* maximum_depth_of_binary_tree.c
+  * [Miximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
+
+hackerrank.com
+---
+solution to the quiz on hackerrank.com
+* xoring_ninja.c
+  * [xoring ninja](https://www.hackerrank.com/challenges/xoring-ninja)
+
 a playground for learning c
 ---
 * hello.c
@@ -27,27 +51,3 @@ a playground for learning c
   * integer v.s. double
 * interview_11.cpp
   * logical right shift vs. arithmetic right shift
-
-hackerrank.com
----
-solution to the quiz on hackerrank.com
-* xoring_ninja.c
-  * [xoring ninja](https://www.hackerrank.com/challenges/xoring-ninja)
-
-leetcode.com
----
-solution to the quiz on leetcode.com
-* my_atoi.c
-  * [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)
-* merge_sorted_array.c
-  * [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
-* length_of_last_word.c
-  * [Length of Last Word](https://leetcode.com/problems/length-of-last-word/)
-* contains_duplicate.c
-  * [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
-* plus_one.c
-  * [Plus One](https://leetcode.com/problems/plus-one/)
-* single_number.c
-  * [Single Number](https://leetcode.com/problems/single-number/)
-* maximum_depth_of_binary_tree.c
-  * [Miximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
