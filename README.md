@@ -47,3 +47,5 @@ solution to the quiz on leetcode.com
   * [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
 * plus_one.c
   * [Plus One](https://leetcode.com/problems/plus-one/)
+* single_number.c
+  * [Single Number](https://leetcode.com/problems/single-number/)
