@@ -18,6 +18,8 @@ solution to the quiz on leetcode.com
   * [Miximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
 * same_tree.c
   * [Same Tree](https://leetcode.com/problems/same-tree/)
+* best_time_to_buy_and_sell_stock_ii.c 
+  * [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)
 
 hackerrank.com
 ---
