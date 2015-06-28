@@ -20,6 +20,8 @@ solution to the quiz on leetcode.com
   * [Same Tree](https://leetcode.com/problems/same-tree/)
 * best_time_to_buy_and_sell_stock_ii.c 
   * [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)
+* number_of_1_bits.c
+  * [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)
 
 hackerrank.com
 ---
