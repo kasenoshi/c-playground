@@ -22,6 +22,8 @@ solution to the quiz on leetcode.com
   * [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)
 * number_of_1_bits.c
   * [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)
+* excel_sheet_column_number.c
+  * [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)
 
 hackerrank.com
 ---
