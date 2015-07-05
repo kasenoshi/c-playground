@@ -26,6 +26,8 @@ solution to the quiz on leetcode.com
   * [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)
 * linked_list_cycle.c
   * [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
+* swap_nodes_in_pairs.c
+  * [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)
 
 hackerrank.com
 ---
