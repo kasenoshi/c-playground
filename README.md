@@ -30,6 +30,8 @@ solution to the quiz on leetcode.com
   * [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)
 * reverse_linked_list.c
   * [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
+* remove_duplicates_from_sorted_list.c
+  * [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
 
 hackerrank.com
 ---
