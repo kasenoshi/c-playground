@@ -28,6 +28,8 @@ solution to the quiz on leetcode.com
   * [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
 * swap_nodes_in_pairs.c
   * [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)
+* reverse_linked_list.c
+  * [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
 
 hackerrank.com
 ---
