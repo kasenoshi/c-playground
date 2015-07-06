@@ -32,6 +32,8 @@ solution to the quiz on leetcode.com
   * [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
 * remove_duplicates_from_sorted_list.c
   * [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
+* merge_two_sorted_lists.c
+  * [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
 
 hackerrank.com
 ---
