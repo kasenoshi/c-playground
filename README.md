@@ -34,6 +34,8 @@ solution to the quiz on leetcode.com
   * [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
 * merge_two_sorted_lists.c
   * [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
+* single_number_ii.c
+  * [Single Number II](https://leetcode.com/problems/single-number-ii/)
 
 hackerrank.com
 ---
