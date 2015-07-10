@@ -42,6 +42,8 @@ solution to the quiz on leetcode.com
   * [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)
 * power_of_two.cc
   * [Power of Two](https://leetcode.com/problems/power-of-two/)
+* summary_ranges.cc
+  * [Summary Ranges](https://leetcode.com/problems/summary-ranges/)
 
 hackerrank.com
 ---
