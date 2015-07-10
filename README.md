@@ -44,6 +44,8 @@ solution to the quiz on leetcode.com
   * [Power of Two](https://leetcode.com/problems/power-of-two/)
 * summary_ranges.cc
   * [Summary Ranges](https://leetcode.com/problems/summary-ranges/)
+* implement_stack_using_queues.cc
+  * [Implement Stack Using Queues](https://leetcode.com/problems/implement-stack-using-queues/)
 
 hackerrank.com
 ---
