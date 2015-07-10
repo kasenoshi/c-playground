@@ -40,6 +40,8 @@ solution to the quiz on leetcode.com
   * [Single Number II](https://leetcode.com/problems/single-number-ii/)
 * minimum_depth_of_binary_tree.cc
   * [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)
+* power_of_two.cc
+  * [Power of Two](https://leetcode.com/problems/power-of-two/)
 
 hackerrank.com
 ---
