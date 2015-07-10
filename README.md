@@ -10,6 +10,8 @@ solution to the quiz on leetcode.com
   * [Length of Last Word](https://leetcode.com/problems/length-of-last-word/)
 * contains_duplicate.c
   * [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
+* contains_duplicate_ii.cc
+  * [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)
 * plus_one.c
   * [Plus One](https://leetcode.com/problems/plus-one/)
 * single_number.c
