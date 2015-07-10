@@ -38,6 +38,8 @@ solution to the quiz on leetcode.com
   * [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
 * single_number_ii.c
   * [Single Number II](https://leetcode.com/problems/single-number-ii/)
+* minimum_depth_of_binary_tree.cc
+  * [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)
 
 hackerrank.com
 ---
