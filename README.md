@@ -46,6 +46,8 @@ solution to the quiz on leetcode.com
   * [Summary Ranges](https://leetcode.com/problems/summary-ranges/)
 * implement_stack_using_queues.cc
   * [Implement Stack Using Queues](https://leetcode.com/problems/implement-stack-using-queues/)
+* rectangle_area.cc
+  * [Rectangle Area](https://leetcode.com/problems/rectangle-area/)
 
 hackerrank.com
 ---
