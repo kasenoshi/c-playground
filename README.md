@@ -85,3 +85,5 @@ a playground for learning c
   * integer v.s. double
 * interview_11.cpp
   * logical right shift vs. arithmetic right shift
+* linked_list.cc
+  * linked list
