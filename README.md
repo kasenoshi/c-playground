@@ -52,6 +52,8 @@ solution to the quiz on leetcode.com
   * [Rectangle Area](https://leetcode.com/problems/rectangle-area/)
 * remove_nth_node_from_end_of_list.cc
   * [Remove Nth Node from End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
+* remove_linked_list_elements.cc
+  * [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)
 
 hackerrank.com
 ---
