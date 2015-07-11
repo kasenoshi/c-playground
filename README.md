@@ -56,6 +56,8 @@ solution to the quiz on leetcode.com
   * [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)
 * add_binary.cc
   * [Add Binary](https://leetcode.com/problems/add-binary/)
+* balanced_binary_tree.cc
+  * [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)
 
 hackerrank.com
 ---
