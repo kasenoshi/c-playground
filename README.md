@@ -54,6 +54,8 @@ solution to the quiz on leetcode.com
   * [Remove Nth Node from End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
 * remove_linked_list_elements.cc
   * [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)
+* add_binary.cc
+  * [Add Binary](https://leetcode.com/problems/add-binary/)
 
 hackerrank.com
 ---
