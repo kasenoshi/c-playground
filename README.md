@@ -50,6 +50,8 @@ solution to the quiz on leetcode.com
   * [Implement Stack Using Queues](https://leetcode.com/problems/implement-stack-using-queues/)
 * rectangle_area.cc
   * [Rectangle Area](https://leetcode.com/problems/rectangle-area/)
+* remove_nth_node_from_end_of_list.cc
+  * [Remove Nth Node from End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
 
 hackerrank.com
 ---
