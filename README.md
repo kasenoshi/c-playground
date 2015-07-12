@@ -58,8 +58,8 @@ solution to the quiz on leetcode.com
   * [Add Binary](https://leetcode.com/problems/add-binary/)
 * balanced_binary_tree.cc
   * [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)
-* lowerest_common_ancestor_of_a_binary_search_tree.cc
-  * [Lowerest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
+* lowest_common_ancestor_of_a_binary_search_tree.cc
+  * [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
 
 hackerrank.com
 ---
@@ -97,3 +97,5 @@ a playground for learning c
   * logical right shift vs. arithmetic right shift
 * linked_list.cc
   * linked list
+* range_rand.cc
+  * range rand
