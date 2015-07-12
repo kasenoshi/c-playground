@@ -60,6 +60,8 @@ solution to the quiz on leetcode.com
   * [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)
 * lowest_common_ancestor_of_a_binary_search_tree.cc
   * [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
+* rotate_array.cc
+  * [Rotate Array](https://leetcode.com/problems/rotate-array/)
 
 hackerrank.com
 ---
