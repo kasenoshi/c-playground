@@ -62,6 +62,8 @@ solution to the quiz on leetcode.com
   * [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
 * rotate_array.cc
   * [Rotate Array](https://leetcode.com/problems/rotate-array/)
+* binary_tree_preorder_traversal.cc
+  * [Binary tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)
 
 hackerrank.com
 ---
