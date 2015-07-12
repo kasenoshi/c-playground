@@ -66,6 +66,8 @@ solution to the quiz on leetcode.com
   * [Binary tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)
 * binary_tree_inorder_traversal.cc
   * [Binary tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)
+* binary_tree_postorder_traversal.cc
+  * [Binary tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)
 
 hackerrank.com
 ---
