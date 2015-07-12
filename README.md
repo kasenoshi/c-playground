@@ -68,6 +68,8 @@ solution to the quiz on leetcode.com
   * [Binary tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)
 * binary_tree_postorder_traversal.cc
   * [Binary tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)
+* majority_element.cc
+  * [Majority Element](https://leetcode.com/problems/majority-element/)
 
 hackerrank.com
 ---
