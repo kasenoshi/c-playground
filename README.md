@@ -64,6 +64,8 @@ solution to the quiz on leetcode.com
   * [Rotate Array](https://leetcode.com/problems/rotate-array/)
 * binary_tree_preorder_traversal.cc
   * [Binary tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)
+* binary_tree_inorder_traversal.cc
+  * [Binary tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)
 
 hackerrank.com
 ---
