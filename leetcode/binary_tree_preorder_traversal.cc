@@ -47,6 +47,18 @@ TEST(TreeTest, NormalInput){
     EXPECT_EQ(2, v[1]);
     EXPECT_EQ(3, v[2]);
 }
+TEST(TreeTest, NormalInput2){
+    Solution s;
+
+    TreeNode *root = new TreeNode(1);
+    root->right = new TreeNode(3);
+    root->left= new TreeNode(2);
+    vector<int> v = s.preorderTraversal(root);
+    EXPECT_EQ(3, v.size());
+    EXPECT_EQ(1, v[0]);
+    EXPECT_EQ(2, v[1]);
+    EXPECT_EQ(3, v[2]);
+}
 
 int main(int argc, char **argv){
     ::testing::InitGoogleTest(&argc, argv);
