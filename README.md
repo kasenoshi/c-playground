@@ -72,6 +72,8 @@ solution to the quiz on leetcode.com
   * [Majority Element](https://leetcode.com/problems/majority-element/)
 * palindrome_number.cc
   * [Palindrome Number](https://leetcode.com/problems/palindrome-number/)
+* intersection_of_two_linked_lists.cc
+  * [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)
 
 hackerrank.com
 ---
