@@ -70,6 +70,8 @@ solution to the quiz on leetcode.com
   * [Binary tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)
 * majority_element.cc
   * [Majority Element](https://leetcode.com/problems/majority-element/)
+* palindrome_number.cc
+  * [Palindrome Number](https://leetcode.com/problems/palindrome-number/)
 
 hackerrank.com
 ---
