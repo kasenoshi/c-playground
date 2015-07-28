@@ -74,6 +74,8 @@ solution to the quiz on leetcode.com
   * [Palindrome Number](https://leetcode.com/problems/palindrome-number/)
 * intersection_of_two_linked_lists.cc
   * [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)
+* happy_number.c
+  * [Happy Number](https://leetcode.com/problems/happy-number/)
 
 hackerrank.com
 ---
@@ -115,3 +117,5 @@ a playground for learning c
   * range rand
 * polymorphism.cc
   * polymorphism
+* strcmp.c
+  * string compare
